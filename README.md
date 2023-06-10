@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RAlYf4k_zyXR7r7wZ8x-BPCBLFg7KcqR/view?usp=sharing](https://drive.google.com/file/d/1RAlYf4k_zyXR7r7wZ8x-BPCBLFg7KcqR/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me ✍🏻⚡️</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharan-s-1389b7237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharan-s-1389b7237" height="30" width="40" /></a>
 <a href="https://instagram.com/sharan.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharan.31" height="30" width="40" /></a>
