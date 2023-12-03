@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan3102&label=Profile%20views&color=0e75b6&style=flat" alt="sharan3102" /> </p>
 
-- 🔭 I’m currently working on [Protocol 24e](https://www.svce.ac.in/Protocol24E/int/)
-
+- 🔭 I’m currently working on a Chrome Extension
+  
 - 🌱 I’m currently learning **NextJS, GSAP, AWS**
 
 - 👯 I’m looking to collaborate on **UI/UX**
